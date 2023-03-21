@@ -4,8 +4,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74116427/221381631-002496d5-cbea-47d2-a9a7-a3d33ce31cb5.gif">
 
-<p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/shorelineimmune7.png" alt="TryHackMe"> <img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz" /> </p>
-
+<p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/shorelineimmune7.png" alt="TryHackMe"> <img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
 
 - 👀 I’m interested in Mobile App Development(iOS) and Cybersecurity
 - 🌱 I’m currently learning iOS App Development, Android, Cloud Computing and Cybersecurity
