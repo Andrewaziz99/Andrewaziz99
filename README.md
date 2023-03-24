@@ -1,14 +1,10 @@
-# <h1 align="center">👋 Hi, I’m Andrew Aziz</h1>
+# <h1 align="center">👋 Hey, I’m Andrew Aziz</h1>
 
 <!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74116427/220767152-3953ea82-ea2e-4c3f-8ff5-9e36cb276ec6.gif"> -->
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74116427/221381631-002496d5-cbea-47d2-a9a7-a3d33ce31cb5.gif">
 
-
-
-![shorelineimmune7](https://user-images.githubusercontent.com/74116427/226740125-48c5c756-5cb7-4cdd-a28a-b53da5cd621b.png)
-
-
+![shorelineimmune7](https://user-images.githubusercontent.com/74116427/227662934-e66577a8-0141-4d3c-ad19-d80c2a979438.png)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
 
