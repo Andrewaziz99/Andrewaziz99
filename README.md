@@ -32,7 +32,7 @@
 
 <hr>
 
-![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_badge.png)
+![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_propic.png)
 
 
 
