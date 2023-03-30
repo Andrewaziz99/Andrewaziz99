@@ -4,7 +4,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74116427/221381631-002496d5-cbea-47d2-a9a7-a3d33ce31cb5.gif">
 
-<!-- ![shorelineimmune7](https://user-images.githubusercontent.com/74116427/227662934-e66577a8-0141-4d3c-ad19-d80c2a979438.png) -->
+![CyberCrafter](https://user-images.githubusercontent.com/74116427/228836076-1abe095a-8770-4153-9e48-310c1d5a04f3.png)
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
 
@@ -32,7 +33,6 @@
 
 <hr>
 
-![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_propic.png)
 
 
 
