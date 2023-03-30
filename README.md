@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74116427/221381631-002496d5-cbea-47d2-a9a7-a3d33ce31cb5.gif">
 
-![CyberCrafter](https://user-images.githubusercontent.com/74116427/228836076-1abe095a-8770-4153-9e48-310c1d5a04f3.png)
+
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
@@ -34,7 +34,7 @@
 <hr>
 
 
-
+![CyberCrafter](https://user-images.githubusercontent.com/74116427/228836076-1abe095a-8770-4153-9e48-310c1d5a04f3.png)
 
 
 <!---
