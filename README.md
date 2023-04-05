@@ -33,8 +33,9 @@
 
 <hr>
 
+![CyberCrafter](https://user-images.githubusercontent.com/74116427/230222094-639f0a6f-2c97-4ec5-9c86-bfe3f65e74e6.png)
 
-![CyberCrafter](https://user-images.githubusercontent.com/74116427/228836076-1abe095a-8770-4153-9e48-310c1d5a04f3.png)
+
 
 
 <!---
