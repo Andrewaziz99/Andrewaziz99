@@ -33,6 +33,8 @@
 
 <hr>
 
+<h3 align="left">TryHackMe Badge:</h3>
+
 ![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_propic.png)
 
 <hr>
