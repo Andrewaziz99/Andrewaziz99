@@ -33,9 +33,7 @@
 
 <hr>
 
-![CyberCrafter](https://user-images.githubusercontent.com/74116427/230222094-639f0a6f-2c97-4ec5-9c86-bfe3f65e74e6.png)
-
-
+![CyberCrafter](https://github.com/Andrewaziz99/Andrewaziz99/assets/74116427/d769d7f1-856b-4cff-ae4d-630c6d5a5551)
 
 
 <!---
