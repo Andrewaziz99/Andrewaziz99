@@ -33,8 +33,6 @@
 
 <hr>
 
-![CyberCrafter](https://github.com/Andrewaziz99/Andrewaziz99/assets/74116427/d769d7f1-856b-4cff-ae4d-630c6d5a5551)
-
 ![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_propic.png)
 
 
