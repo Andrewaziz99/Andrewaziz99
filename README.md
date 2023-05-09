@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74116427/220767152-3953ea82-ea2e-4c3f-8ff5-9e36cb276ec6.gif"> -->
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74116427/221381631-002496d5-cbea-47d2-a9a7-a3d33ce31cb5.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/Andrewaziz99/Andrewaziz99/assets/74116427/2892cac5-a30c-4020-a3f0-ad60308e9ae8">
 
 
 
