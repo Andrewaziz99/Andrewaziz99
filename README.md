@@ -35,6 +35,8 @@
 
 ![CyberCrafter](https://github.com/Andrewaziz99/Andrewaziz99/assets/74116427/d769d7f1-856b-4cff-ae4d-630c6d5a5551)
 
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
 
 <!---
 Andrewaziz99/Andrewaziz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
