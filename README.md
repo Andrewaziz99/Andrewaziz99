@@ -9,9 +9,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
 
-- 👀 I’m interested in Mobile App Development(iOS) and Cybersecurity
-- 🌱 I’m currently learning iOS App Development, Android, Cloud Computing and Cybersecurity
-- 💞️ I’m looking to collaborate on Mobile iOS or Android Project
+- 👀 I’m interested in Network Security and Flutter.
+- 🌱 I’m currently learning Network Security, Flutter and Cloud Computing.
+<!-- - 💞️ I’m looking to collaborate on Mobile iOS or Android Project -->
 - 📫 How to reach me ... mail me on: **andrewaziz097@gmail.com**
 
 
