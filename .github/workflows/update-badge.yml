@@ -1,0 +1,13 @@
+name: Update THM Badge
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        run: |
+          # Just fetch the badge to ensure cache refresh
+          curl -s https://tryhackme-badges.s3.amazonaws.com/CyberCrafter.png > /dev/null
