@@ -40,6 +40,8 @@
 
 
 ![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1306956" style='border:none;'></iframe>
+
 
 <hr>
 
