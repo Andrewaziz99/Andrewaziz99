@@ -38,9 +38,7 @@
 
 <h3 align="left">TryHackMe Badge:</h3>
 
-
-![tryhackme stats](https://raw.githubusercontent.com/Andrewaziz99/Andrewaziz99/master/assets/thm_propic.png)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1306956" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/CyberCrafter.png" alt="Your Image Badge" />
 
 
 <hr>
