@@ -9,10 +9,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
 
-- 👀 I’m interested in Network Security and Flutter.
-- 🌱 I’m currently learning Network Security, Flutter and Cloud Computing.
-<!-- - 💞️ I’m looking to collaborate on Mobile iOS or Android Project -->
-- 📫 How to reach me ... mail me on: **andrewaziz097@gmail.com**
+- 👀 I’m interested in Cyber Security and Flutter.
+- 🌱 I’m currently learning Pentesting and Flutter.
+- 📫 How to reach me ... mail me on: **andrewmichel2002@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
