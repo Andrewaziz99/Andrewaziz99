@@ -40,6 +40,10 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CyberCrafter.png)](https://tryhackme.com/p/CyberCrafter)
 
+<hr>
+
+[![Update THM Badge](https://github.com/Andrewaziz99/Andrewaziz99/actions/workflows/update-badge.yml/badge.svg)](https://github.com/Andrewaziz99/Andrewaziz99/actions/workflows/update-badge.yml)
+
 
 
 <hr>
