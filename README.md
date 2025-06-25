@@ -1,64 +1,21 @@
-# <h1 align="center">👋 Hey, I’m Andrew Aziz</h1>
 
-<!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74116427/220767152-3953ea82-ea2e-4c3f-8ff5-9e36cb276ec6.gif"> -->
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AndrewAziz20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrew-michel-345a21280/) 
 
-<img align="right" alt="Coding" width="350" src="https://github.com/Andrewaziz99/Andrewaziz99/assets/74116427/2892cac5-a30c-4020-a3f0-ad60308e9ae8">
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andrewaziz99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=andrewaziz99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewaziz99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=andrewaziz99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=andrewaziz99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=andrewaziz99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz"/> </p>
-
-- 👀 I’m interested in Cyber Security and Flutter.
-- 🌱 I’m currently learning Pentesting and Flutter.
-- 📫 How to reach me ... mail me on: **andrewmichel2002@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/andrew-michel-345a21280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew Aziz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AndrewAziz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Andrew Aziz" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-
-<p align="left"> <a href="https://user-images.githubusercontent.com/74116427/220764912-8e608a0c-10a6-49de-8837-200304f6bfcf.png" target="_blank"> <img src="https://user-images.githubusercontent.com/74116427/220764912-8e608a0c-10a6-49de-8837-200304f6bfcf.png" alt="Java" width="40" height="40"/> </a> <a href="https://user-images.githubusercontent.com/74116427/220765396-b4d4c071-303c-487d-95f5-69415f595cd5.png" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/220765396-b4d4c071-303c-487d-95f5-69415f595cd5.png" alt="php" width="40" height="40"/> </a> <a href="https://user-images.githubusercontent.com/74116427/220765756-35b52eef-8712-4350-bc17-e523910ee7fc.png" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/220765756-35b52eef-8712-4350-bc17-e523910ee7fc.png" alt="C++" width="40" height="40"/> </a> <a href="https://www.swift.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/220766303-5cfe8af5-e832-4625-a043-4da563406b59.png" alt="Swift" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/221379208-b1ede152-a9bf-4d76-a225-9c7329736053.png" alt="Python" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/221381228-1b8bd4c8-d1ff-445b-9547-f20f2583daae.svg" alt="Laravel" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/221381290-d7b671bd-d367-4cf9-a61e-b110da9fd970.png" alt="Unity" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/221381369-d403ee5b-4a55-4b1a-9720-bfe1073cdfa1.png" alt="Docker" width="40" height="40"/> </a> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/221381397-98ab4cff-67c5-4902-980e-a636b05fa355.png" alt="Android" width="40" height="40"/> </a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74116427/224559008-f97cc0d6-6329-421c-80e7-aeb485b6858f.svg" alt="Android" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Nodejs" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Flutter" width="80" height="80"/></a> </p>
-
-
-
-
-<hr>
-
-<h3 align="left">TryHackMe Badge:</h3>
-
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CyberCrafter.png)](https://tryhackme.com/p/CyberCrafter)
-
-<hr>
-
-[![Update THM Badge](https://github.com/Andrewaziz99/Andrewaziz99/actions/workflows/update-badge.yml/badge.svg)](https://github.com/Andrewaziz99/Andrewaziz99/actions/workflows/update-badge.yml)
-
-
-
-<hr>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Andrewaziz99">
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewaziz99"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewaziz99&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-<!---
-Andrewaziz99/Andrewaziz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
