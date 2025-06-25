@@ -1,4 +1,4 @@
-## ![TryHackMe](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg):
+## <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="120"/> :
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CyberCrafter.png)](https://tryhackme.com/p/CyberCrafter)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AndrewAziz20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrew-michel-345a21280/) 
