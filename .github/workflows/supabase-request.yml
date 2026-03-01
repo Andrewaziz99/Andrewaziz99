@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Make request to Supabase
         run: |
-          curl -X GET "${{ secrets.SUPABASE_URL }}/rest/v1/your_table_name" \
+          curl -X GET "${{ secrets.SUPABASE_URL }}/rest/v1/images" \
           -H "apikey: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" \
           -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" \
           -H "Content-Type: application/json"
